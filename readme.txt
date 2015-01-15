@@ -25,4 +25,10 @@ rebase のテスト：lino側を編集
 rebase で両方入れました
 
 
+---
 さらに両方入れる
+GUI rebase: さらに lino 編集
+
+---
+
+おやおや？？
