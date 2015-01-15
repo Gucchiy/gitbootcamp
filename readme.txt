@@ -17,3 +17,5 @@ master でさらに追加
 
 rebase テスト: master への書き込み
 
+
+GUI rebase: さらに master 編集
