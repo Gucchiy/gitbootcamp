@@ -19,3 +19,10 @@ rebase テスト: master への書き込み
 
 
 GUI rebase: さらに master 編集
+
+rebase のテスト：lino側を編集
+
+rebase で両方入れました
+
+
+さらに両方入れる
